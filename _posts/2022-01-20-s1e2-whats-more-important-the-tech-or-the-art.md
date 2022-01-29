@@ -1,13 +1,16 @@
 ---
 title: 'S1E2: Web3 Black Notes'
-excerpt: 'Season 1 Episode 2 for Web3 Black Notes. Topic: What is more important: the tech, or the art?'
-coverImage: 'https://user-images.githubusercontent.com/78528185/151679237-2903fdca-a534-44df-b355-7d35f41fbdfe.jpeg'
-date: '2022-01-20T00:00:00.000Z'
+excerpt: "What's more important: the tech, or the art?"
+coverImage: '/assets/blog/default-black-keys.jpeg'
+date: '2022-01-20T12:00:00.000Z'
 author:
   name: almndbtr
+  picture: '/assets/blog/authors/almndbtr.png'
 ogImage:
-  url: https://user-images.githubusercontent.com/78528185/151679181-e1b5cad5-7113-45f4-a9fb-1b23dd0b2169.jpeg
+  url: '/assets/blog/default-black-keys.jpeg'
 ---
+
+<!-- ![s1e2-poster](https://user-images.githubusercontent.com/78528185/151679181-e1b5cad5-7113-45f4-a9fb-1b23dd0b2169.jpeg) -->
 
 ### About
 
