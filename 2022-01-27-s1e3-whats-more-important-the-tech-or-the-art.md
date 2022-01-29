@@ -4,7 +4,12 @@ description: 'What''s more important: the tech, or the art? PART 2'
 
 # 🎹 S1E3: #web3 Black Notes
 
-![](../.gitbook/assets/FKJfufiUYAEw\_\_o.jpeg)
+![s1e3-poster](https://user-images.githubusercontent.com/78528185/151679201-60e6a879-30b0-471d-96cc-2f2cab6b8884.jpeg)
+
+### About
+
+* January 20, 2022 | 7:30 - 9:30PM EST
+* Twitter Space: https://twitter.com/iampatjunior/status/1486860361798242308?s=20&t=l3n2Dirz6tqSd2EQoQdaCQ
 
 ### Ground Rules
 

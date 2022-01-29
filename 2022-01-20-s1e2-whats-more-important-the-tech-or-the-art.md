@@ -4,6 +4,8 @@ description: 'What''s more important: the tech, or the art?'
 
 # 🎹 S1E2: #web3 Black Notes
 
+![s1e2-poster](https://user-images.githubusercontent.com/78528185/151679237-2903fdca-a534-44df-b355-7d35f41fbdfe.jpeg)
+
 ### About
 
 * January 20, 2022 | 7:30 - 8:30PM EST
