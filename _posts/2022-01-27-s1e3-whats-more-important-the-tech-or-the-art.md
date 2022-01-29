@@ -1,14 +1,17 @@
 ---
-description: 'What''s more important: the tech, or the art? PART 2'
+title: 'S1E3: Web3 Black Notes'
+excerpt: 'Season 1 Episode 3 for Web3 Black Notes. Topic: What is more important: the tech, or the art? Part 2'
+coverImage: 'https://user-images.githubusercontent.com/78528185/151679201-60e6a879-30b0-471d-96cc-2f2cab6b8884.jpeg'
+date: '2022-01-27T00:00:00.000Z'
+author:
+  name: almndbtr
+ogImage:
+  url: https://user-images.githubusercontent.com/78528185/151679181-e1b5cad5-7113-45f4-a9fb-1b23dd0b2169.jpeg
 ---
-
-# 🎹 S1E3: #web3 Black Notes
-
-![s1e3-poster](https://user-images.githubusercontent.com/78528185/151679201-60e6a879-30b0-471d-96cc-2f2cab6b8884.jpeg)
 
 ### About
 
-* January 20, 2022 | 7:30 - 9:30PM EST
+* January 27, 2022 | 7:30 - 9:30PM EST
 * Twitter Space: https://twitter.com/iampatjunior/status/1486860361798242308?s=20&t=l3n2Dirz6tqSd2EQoQdaCQ
 
 ### Ground Rules
