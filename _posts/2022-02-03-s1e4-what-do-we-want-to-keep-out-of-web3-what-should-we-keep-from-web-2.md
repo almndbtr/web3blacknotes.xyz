@@ -1,7 +1,7 @@
 ---
 title: 'S1E4: Web3 Black Notes'
 excerpt: "What do we want to keep out of Web3? What should we keep from Web2?"
-coverImage: '/assets/blog/default-black-keys.jpeg'
+coverImage: 'https://user-images.githubusercontent.com/78528185/152287519-5b96ed1f-1ca2-49b0-b66e-92fe3af03c18.jpeg'
 date: '2022-02-03T12:00:00.000Z'
 author:
   name: almndbtr
