@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web3 Black Notes',
+  title: '🎹 Web3 Black Notes',
   tagline: 'Creating culture and space with the community.',
   url: 'https://www.web3blacknotes.xyz/',
   baseUrl: '/',
