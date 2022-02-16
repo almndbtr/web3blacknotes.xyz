@@ -111,6 +111,10 @@ const config = {
               //   to: '/blog',
               // },
               {
+                label: 'License',
+                href: 'https://github.com/almndbtr/web3blacknotes.xyz/blob/main/LICENSE.md',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/almndbtr/web3blacknotes.xyz',
               },
