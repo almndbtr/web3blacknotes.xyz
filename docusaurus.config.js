@@ -117,7 +117,6 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Web3 Black Notes. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
