@@ -120,13 +120,15 @@ const config = {
               },
             ],
           },
-        ],
+        ],  
+        copyright: 'No tracking. Have a nice day ☺'
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+
 };
 
 module.exports = config;
