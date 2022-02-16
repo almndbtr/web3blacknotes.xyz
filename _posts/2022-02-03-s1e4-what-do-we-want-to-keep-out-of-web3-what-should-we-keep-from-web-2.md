@@ -16,7 +16,7 @@ ogImage:
 
 * February 2, 2022 | 7:30 - 9:30PM EST
 * [Twitter Announcement](https://twitter.com/iampatjunior/status/1488568241421234178?s=20&t=wZ2vIxO9bf7_2Iwc_wDkBA)
-* Twitter Space URL: Coming soon!
+* Twitter Space URL: https://twitter.com/i/spaces/1vOGwypDNBRxB
 
 ### Ground Rules
 
