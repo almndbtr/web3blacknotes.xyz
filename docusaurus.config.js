@@ -26,6 +26,7 @@ const config = {
           editUrl: 'https://github.com/almndbtr/web3blacknotes.xyz/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
