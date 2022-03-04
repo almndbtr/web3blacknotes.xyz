@@ -10,10 +10,10 @@ We host weekly Twitter Spaces to hold space for the community to explore the int
 
 |   | Name | Twitter | ENS | 
 | - | ----- | ------- | ----|
-| <img src="https://pbs.twimg.com/profile_images/1430593599473864709/wUGSKEZl_400x400.jpg" alt="iampatjunior-avatar" width="50" height="50"></img> | Pat | [`@iampatjunior`](https://twitter.com/iampatjunior) | [`patjunior.eth`](https://etherscan.io/enslookup-search?search=patjunior.eth) | 
+| <img src="https://pbs.twimg.com/profile_images/1496606311286550528/AjkGNqKi_400x400.jpg" alt="iampatjunior-avatar" width="50" height="50"></img> | Pat | [`@iampatjunior`](https://twitter.com/iampatjunior) | [`patjunior.eth`](https://etherscan.io/enslookup-search?search=patjunior.eth) | 
 | <img src="https://pbs.twimg.com/profile_images/1480908245481005059/Z3MBrJYT_400x400.jpg" alt="psalmone-avatar" width="50" height="50"></img> | Kizzie | [`@PsalmOne`](https://twitter.com/PsalmOne) | [`hologramkizzie.eth`](https://etherscan.io/enslookup-search?search=hologramkizzie.eth) | 
-| <img src="https://pbs.twimg.com/profile_images/1489460462831943680/HoulwNic_400x400.jpg" alt="jamesgardin-avatar" width="50" height="50"></img> | James | [`@jamesgardin_`](https://twitter.com/jamesgardin_) | [`JamesGardin.eth`](https://etherscan.io/enslookup-search?search=jamesgardin.eth) | 
-| <img src="https://pbs.twimg.com/profile_images/1493128534503542787/wRlPeAik_400x400.jpg" alt="almndbtr-avatar" width="50" height="50"></img> | Almond | [`@almndbtr`](https://twitter.com/almndbtr) | [`almndbtr.eth`](https://etherscan.io/enslookup-search?search=almndbtr.eth) | 
+| <img src="https://pbs.twimg.com/profile_images/1495565223155146752/FJKRKAnd_400x400.jpg" alt="jamesgardin-avatar" width="50" height="50"></img> | James | [`@jamesgardin_`](https://twitter.com/jamesgardin_) | [`JamesGardin.eth`](https://etherscan.io/enslookup-search?search=jamesgardin.eth) | 
+| <img src="https://pbs.twimg.com/profile_images/1496446582572523521/lo60E9vi_400x400.jpg" alt="almndbtr-avatar" width="50" height="50"></img> | Almond | [`@almndbtr`](https://twitter.com/almndbtr) | [`almndbtr.eth`](https://etherscan.io/enslookup-search?search=almndbtr.eth) | 
 
 
 ## Supporting our work ✨
